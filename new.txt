@@ -1,0 +1,32 @@
+header.componet.html
+------------------------------
+<html>
+  <div style="background-color:crimson;width:1500px;height:100px;font-size: 30px; float:right;">
+  <a href="" style="text-decoration: none;color: floralwhite;">HOME</a>&nbsp;
+  <a href="" style="text-decoration: none;color: floralwhite;">ABOUT</a>&nbsp;
+  <a href="" style="text-decoration: none;color: floralwhite;">CONTACT</a>&nbsp;
+  </div>
+</html>
+
+footer.componet.html
+------------------------
+<html>
+  <br><br><br><br><br><br><br>
+  <div style="background-color:teal;height:100px;font-size: 20px; font-style:italic; float:bottom; position:right;">
+  <div style="font-variant-position: unset;"><p>Copyright (c) 2009 Microsoft Corporation.  All rights reserved.</p></div>
+  </div>
+</html>
+
+sidebar
+--------------------------------
+<html>
+  
+    <div style="float:left;background-color:crimson;width: 150px;height: 1000px;;" >
+        <ul>
+    <li>coponent1</li>
+    <li>coponent1</li>
+    <li>coponent1</li>
+    <li>coponent1</li>
+  </ul>
+</div>
+</html>
